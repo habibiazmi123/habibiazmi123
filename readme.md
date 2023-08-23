@@ -4,8 +4,8 @@
 
 ##### NOW
 
-- ✨ Now i'm make all web project with Laravel Framwork;
-- 🤖  In some projects I build android or ios apps with React Native
+- ✨ Now i'm make all web project with Laravel Framework;
+- 🤖 In some projects I build android or ios apps with React Native
 - 🇮🇩 In 2023 i will focus learn golang.
 
 ##### BIO
