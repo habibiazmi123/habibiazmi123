@@ -11,7 +11,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **PT.Sigma Cipta Caraka**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`
+- ⚙️ I use daily: `.php`, `.go`, `.js`, `.html`, `.css`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **laravel**, **development**
 - 📫 Reach me: [azmi](https://www.instagram.com/m.habibiazmi)
